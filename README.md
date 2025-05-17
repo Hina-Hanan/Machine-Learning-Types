@@ -1,16 +1,16 @@
 # Machine Learning Types: Theory Notes
-A comprehensive collection of theoretical notes on machine learning types, subtypes, and core concepts. This repository serves as a reference guide for understanding the fundamentals of machine learning.
+A comprehensive collection of theoretical notes on machine learning types, subtypes, and basic concepts. This repository serves as a reference guide for understanding the fundamentals of machine learning.
 
 ## Repository Contents
-This repository contains detailed notes on the four main types of machine learning:
+This repository contains notes on the four main types of machine learning:
 
-- **Supervised Learning** - Including classification, regression, and time series forecasting algorithms
+- **Supervised Learning** 
 
-- **Unsupervised Learning** - Covering clustering, dimensionality reduction, and association techniques
+- **Unsupervised Learning** 
 
-- **Semi-supervised Learning** - Exploring methods that use both labeled and unlabeled data
+- **Semi-supervised Learning**  
 
-- **Reinforcement Learning** - Detailing policy-based, value-based, and model-based approaches
+- **Reinforcement Learning** 
 
 Each section includes theoretical foundations, mathematical concepts, practical applications, and implementation considerations to provide a well-rounded understanding of machine learning methodologies.
 
