@@ -12,7 +12,5 @@ This repository contains notes on the four main types of machine learning:
 
 - **Reinforcement Learning** 
 
-Each section includes theoretical foundations, mathematical concepts, practical applications, and implementation considerations to provide a well-rounded understanding of machine learning methodologies.
-
 ## Who Is This For?
 Perfect for students, researchers, and practitioners looking to strengthen their theoretical understanding of machine learning concepts. Whether you're new to the field or looking to refresh your knowledge, these notes provide clear explanations of essential machine learning principles.
